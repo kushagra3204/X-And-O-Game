@@ -1,0 +1,4 @@
+-IC:\Users\Kushagra Agarwal\Documents\KushagraWorkspace\X-And-O-Game
+-std=c++17
+-target
+
